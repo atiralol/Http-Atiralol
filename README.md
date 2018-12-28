@@ -1,13 +1,4 @@
- ▄▄▄     ▄▄▄█████▓ ██▓ ██▀███   ▄▄▄       ██▓     ▒█████   ██▓    
-▒████▄   ▓  ██▒ ▓▒▓██▒▓██ ▒ ██▒▒████▄    ▓██▒    ▒██▒  ██▒▓██▒    
-▒██  ▀█▄ ▒ ▓██░ ▒░▒██▒▓██ ░▄█ ▒▒██  ▀█▄  ▒██░    ▒██░  ██▒▒██░    
-░██▄▄▄▄██░ ▓██▓ ░ ░██░▒██▀▀█▄  ░██▄▄▄▄██ ▒██░    ▒██   ██░▒██░    
- ▓█   ▓██▒ ▒██▒ ░ ░██░░██▓ ▒██▒ ▓█   ▓██▒░██████▒░ ████▓▒░░██████▒
- ▒▒   ▓▒█░ ▒ ░░   ░▓  ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▒░▓  ░░ ▒░▒░▒░ ░ ▒░▓  ░
-  ▒   ▒▒ ░   ░     ▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░░ ░ ▒  ░  ░ ▒ ▒░ ░ ░ ▒  ░
-  ░   ▒    ░       ▒ ░  ░░   ░   ░   ▒     ░ ░   ░ ░ ░ ▒    ░ ░   
-      ░  ░         ░     ░           ░  ░    ░  ░    ░ ░      ░  ░
-                 HTTP SPOOFED BY ATIRALOL <3                                                    
+HTTP SPOOFED BY ATIRALOL <3                                                    
 
 PT-BR: Como usar isso
 http-atiralol.pl <site> <threads> <sockets> <start ip> <end ip> <port>
@@ -20,7 +11,8 @@ http-atiralol.pl <site> <threads> <sockets> <start ip> <end ip> <port>
 About:
 Script for Centos 6 (250k~800k request/ps IP'S Spoofed Unlimited)
 
-======================================================================================
+
+     ░  ░         ░     ░           ░  ░    ░  ░    ░ ░      ░  ░
 
 ESSA VERSÃO É MAIS FRACA QUE A ORIGINAL POREM FUNCIONA PARA QUALQUER MAQUINA
 THIS VERSION IS LOWER THAN THE ORIGINAL BUT IT WORKS FOR ANY MACHINE
