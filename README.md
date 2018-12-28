@@ -11,12 +11,6 @@ http-atiralol.pl <site> <threads> <sockets> <start ip> <end ip> <port>
 About:
 Script for Centos 6 (250k~800k request/ps IP'S Spoofed Unlimited)
 
-
-     ░  ░         ░     ░           ░  ░    ░  ░    ░ ░      ░  ░
-
-ESSA VERSÃO É MAIS FRACA QUE A ORIGINAL POREM FUNCIONA PARA QUALQUER MAQUINA
-THIS VERSION IS LOWER THAN THE ORIGINAL BUT IT WORKS FOR ANY MACHINE
- 
 PT-BR: Como usar isso
 atiralol-esmaga.pl <site> <threads> <sockets> 8.8.8.8
 
@@ -27,3 +21,6 @@ atiralol-esmaga.pl <site> <threads> <sockets> 8.8.8.8
 
 About:
 Script for Any Machine (200k~500k request/ps only 1 IP Spoofed)
+
+ESSA VERSÃO É MAIS FRACA QUE A ORIGINAL POREM FUNCIONA PARA QUALQUER MAQUINA.
+THIS VERSION IS LOWER THAN THE ORIGINAL BUT IT WORKS FOR ANY MACHINE.
